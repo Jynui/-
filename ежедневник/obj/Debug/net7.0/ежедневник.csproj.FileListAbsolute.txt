@@ -1,0 +1,15 @@
+/Users/tagirner/Projects/ежедневник/ежедневник/bin/Debug/net7.0/ежедневник
+/Users/tagirner/Projects/ежедневник/ежедневник/bin/Debug/net7.0/ежедневник.deps.json
+/Users/tagirner/Projects/ежедневник/ежедневник/bin/Debug/net7.0/ежедневник.runtimeconfig.json
+/Users/tagirner/Projects/ежедневник/ежедневник/bin/Debug/net7.0/ежедневник.dll
+/Users/tagirner/Projects/ежедневник/ежедневник/bin/Debug/net7.0/ежедневник.pdb
+/Users/tagirner/Projects/ежедневник/ежедневник/obj/Debug/net7.0/ежедневник.csproj.AssemblyReference.cache
+/Users/tagirner/Projects/ежедневник/ежедневник/obj/Debug/net7.0/ежедневник.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tagirner/Projects/ежедневник/ежедневник/obj/Debug/net7.0/ежедневник.AssemblyInfoInputs.cache
+/Users/tagirner/Projects/ежедневник/ежедневник/obj/Debug/net7.0/ежедневник.AssemblyInfo.cs
+/Users/tagirner/Projects/ежедневник/ежедневник/obj/Debug/net7.0/ежедневник.csproj.CoreCompileInputs.cache
+/Users/tagirner/Projects/ежедневник/ежедневник/obj/Debug/net7.0/ежедневник.dll
+/Users/tagirner/Projects/ежедневник/ежедневник/obj/Debug/net7.0/refint/ежедневник.dll
+/Users/tagirner/Projects/ежедневник/ежедневник/obj/Debug/net7.0/ежедневник.pdb
+/Users/tagirner/Projects/ежедневник/ежедневник/obj/Debug/net7.0/ежедневник.genruntimeconfig.cache
+/Users/tagirner/Projects/ежедневник/ежедневник/obj/Debug/net7.0/ref/ежедневник.dll
